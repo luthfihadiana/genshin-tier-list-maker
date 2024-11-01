@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "genshin-title";
+  font-style: normal;
+  src: local("genshin-title"), url(@/assets/fonts/genshin-title.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "genshin-text";
+  font-style: normal;
+  src: local("genshin-text"), url(@/assets/fonts/genshin-text.ttf) format('truetype');
+}
